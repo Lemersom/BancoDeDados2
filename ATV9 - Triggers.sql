@@ -1,3 +1,5 @@
+--Atividade 9 - Triggers
+
 /*1:
 Quando um novo auxiliar bilingue for inserido com salário menor que
 1.300,00, permita a inserção, mas mude o salário para 1.300,00 e avise que o valor foi
