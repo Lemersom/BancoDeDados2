@@ -1,6 +1,11 @@
 --Atividade 07 - Funções
 
 
+/*Comentários do Professor:
+- No exercício 1 não é necessário nenhum IF, as verificações devem ser feitas com o EXCEPT, 
+que deve ter 'BEGIN..END' próprios, reveja o exemplo. Os demais exercícios estão corretos.
+*/
+
 /*1:
 Faça uma função para inserir um novo registro na tabela Engenheiro. 
 Trate a exceção (verifique o valor do SQLSTATE) para o caso de inserção 
